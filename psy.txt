@@ -1,2 +1,4 @@
 print"hello everyone"
+print"get well soon all"
+print" go corona go :)"
 print"goodbye all"
